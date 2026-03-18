@@ -13,7 +13,7 @@ In this lab, the original Java programs (App.java) in each module (SVCR, SVBR, a
 Overall, the main modifications were focused on extending the App.java files to include metric calculations, handling multiple datasets, and identifying the best-performing model based on different evaluation criteria.
 
 
-
+-
 
 
 Machine Learning (ML) models play a crucial role in modern software. Testing modern software should include testing the ML models. The design of the ML model is outside the lab's scope. Only ML 
